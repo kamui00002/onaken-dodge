@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Assets (容量が大きい場合は除外推奨)
+# assets/*.wav
+# assets/*.mp3
+# assets/*.png
