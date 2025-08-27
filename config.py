@@ -30,3 +30,6 @@ BG_PATH     = "assets/bg.png"
 BGM_PATH    = "assets/bgm.mp3"
 HIT_PATH    = "assets/hit.wav"
 START_PATH  = "assets/start.wav"
+
+# Project version
+VERSION = "v0.2"
